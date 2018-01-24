@@ -1,0 +1,22 @@
+body{
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+h1{
+	font-family: 'Joti One', cursive;
+	font-size: 6em;
+}
+.mainContent{
+	margin-top:10em;
+}
+#city{
+	font-family: 'Joti One', cursive;
+	font-size: 4em;
+}
+#weather{
+	font-size: 3em;
+}
+p{
+	margin-top: 7em;
+}
